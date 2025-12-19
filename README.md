@@ -1,2 +1,2 @@
-# harrison_vassel
+# technical_projects
 Portfolio projects from fall 2025
